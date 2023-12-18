@@ -1,19 +1,18 @@
 html, body {
     height: 100%;
-    margin: 0;
-    padding: 0;
+    background-repeat: no-repeat !important;
 }
 
 body{
-    background: linear-gradient(135deg, #4203a9, #90bafc);
+    background: #084164;
     color: white;
 }
 
 
 
+
 .container{
     width: 100%;
-    min-width: 100vh;
     color: #fff;
     padding: 10px;
     /* border: 1px solid red */
